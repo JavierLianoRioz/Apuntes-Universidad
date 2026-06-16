@@ -25,7 +25,9 @@
 !.obsidian/plugins/**
 
 # Ignorar explícitamente archivos temporales de Obsidian y del sistema
+.obsidian/workspace
 .obsidian/workspace.json
+.obsidian/workspaceMobile
 .obsidian/*sync-conflict*
 .obsidian/*.sync-conflict*
 .DS_Store
