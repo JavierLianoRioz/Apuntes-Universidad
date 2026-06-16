@@ -1,0 +1,9 @@
+{
+  "userIgnoreFilters": [
+    "8 📚 BIBLIOTECA/",
+    "OMP.md"
+  ],
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "promptDelete": false
+}

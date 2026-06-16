@@ -1,0 +1,32 @@
+# Ignorar todo por defecto
+*
+
+# No ignorar el propio .gitignore
+!.gitignore
+
+# Permitir la carpeta 1 🐢 TURTLE y su contenido
+!1 🐢 TURTLE/
+!1 🐢 TURTLE/**
+
+# Permitir la carpeta 6 🏷️ CATEGORIAS y su contenido
+!6 🏷️ CATEGORIAS/
+!6 🏷️ CATEGORIAS/**
+
+# Permitir la carpeta .obsidian y sus archivos de configuración
+!.obsidian/
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/hotkeys.json
+
+# Permitir la carpeta plugins de Obsidian y todo su contenido
+!.obsidian/plugins/
+!.obsidian/plugins/**
+
+# Ignorar explícitamente archivos temporales de Obsidian y del sistema
+.obsidian/workspace.json
+.obsidian/*sync-conflict*
+.obsidian/*.sync-conflict*
+.DS_Store
+**/.DS_Store
