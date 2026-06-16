@@ -4,6 +4,10 @@
 # No ignorar el propio .gitignore
 !.gitignore
 
+# Permitir la nota Mía.md (en formas NFC y NFD)
+!Mía.md
+!Mía.md
+
 # Permitir la carpeta 1 🐢 TURTLE y su contenido
 !1 🐢 TURTLE/
 !1 🐢 TURTLE/**
